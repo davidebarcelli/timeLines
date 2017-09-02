@@ -1,0 +1,22 @@
+{
+  "name": "time-lines",
+  "version": "1.0.0",
+  "description": "Line of time that shows timely events in several contextualized lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidebarcelli/timeLines.git"
+  },
+  "author": "Davide Barcelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidebarcelli/timeLines/issues"
+  },
+  "homepage": "https://github.com/davidebarcelli/timeLines#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
