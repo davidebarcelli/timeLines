@@ -1,5 +1,5 @@
 # timeLines - A tool to simultaneously show multiple *hystories*
-===
+
 Too frequently teachers are unable to sufficiently stress the **connections** among their subject and the rest of human knowledge. In particular, too few temporal references are made to which events are ongoing in a particular time frame on differences areas.
 
 The timeLines project aims at creating a easy-to-use tool for displaying events, which are grouped accordingly to an *a priori* established criteria, in a colored time line by using marks whose size emphasizes the event relevance for the topic under discussion. Authors believe that a remarkably relevant feature is the simultaneous presence of more than one of these lines in the same screen, naturally with event time collocation scaled accordingly.
